@@ -24,8 +24,7 @@ wheels/
 *.egg
 
 # ML Models and Data
-storage/models/*.pkl
-storage/datasets/*.csv
+
 
 # Environment
 .env.local
